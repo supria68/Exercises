@@ -1,7 +1,7 @@
-Simple utilization of Python to perform CRUD analysis on a SQl database.
+#### Simple utilization of Python to perform CRUD analysis on SQL database.
 
--Start with the sqlite_basic.py script to understand the connection between sql and python.
--Script involves:
+-Start with the sqlite_basic.py script to understand the connection between sql and python.  
+-Script involves:  
 1. Create a database (vehicles.db)
 2. Create a Table 'cars', Insert values into 'cars'
 3. Update the values in 'cars'
